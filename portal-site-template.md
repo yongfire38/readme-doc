@@ -48,7 +48,7 @@
 
 ## 프로젝트 실행
 
-1. eclipse 하단의 Servers 탭을 클릭하고, 마우스 우클릭하여 “New > Server”를 선택하여 서버를 설치한다.
+1. eclipse 하단의 Servers 탭을 클릭하고, 마우스 우클릭하여 __New > Server__를 선택하여 서버를 설치한다.
 
 2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 기초 데이터를 입력한다.
 
@@ -57,4 +57,4 @@
 3. 템플릿 환경설정을 수행한다.
    다음 문서를 참고하도록 한다. [템플릿 구성 및 환경설정](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:configration)
 
-4. 실행할 프로젝트를 마우스 우클릭하고 “Run As > Run on Server”를 선택한다.
+4. 실행할 프로젝트를 마우스 우클릭하고 __Run As > Run on Server__ 를 선택한다.
