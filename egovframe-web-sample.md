@@ -1,6 +1,6 @@
 # 표준프레임워크 심플 게시판
 
-※ 본 프로젝트는 Spring 기반의 기본 게시판 예제입니다.
+※ 본 프로젝트는 Spring 기반의 기본 게시판 예제입니다.  
 ※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Web Project 선택 후,  
 Generate Example을 체크하여도 동일하게 생성 가능합니다.
 
