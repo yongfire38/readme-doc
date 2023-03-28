@@ -50,7 +50,7 @@
 
 2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 연결하고자 하는 DB에 테이블 생성 및 기초 데이터를 생성한다.
 
-   ![new_template_run1](https://user-images.githubusercontent.com/30619379/228111640-1e2f23ab-0a21-4848-8789-b63cf4700556.jpg)
+   ![new_template_sht_run1](https://user-images.githubusercontent.com/30619379/228142767-fa9b4787-ef78-4038-a1b1-749edae9ecb7.jpg)
 
 3. [템플릿 구성 및 환경설정](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:configration) 문서를 참고하여 템플릿 환경설정을 수행한다.
 
