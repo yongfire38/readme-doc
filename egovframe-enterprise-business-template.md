@@ -1,12 +1,12 @@
-# 표준프레임워크 템플릿 프로젝트 포털 사이트
+# 표준프레임워크 템플릿 프로젝트 내부업무 시스템
 
 ※ 본 프로젝트는 표준프레임워크에서 제공하는 공통컴포넌트의 기능들 중 일부를 선정하여 기본 구성한 참조용 프로젝트 소스입니다.  
-※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Template Project 선택 후, Portal Site를 체크하여도 동일하게 생성 가능합니다.
+※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Template Project 선택 후, Enterprise Business를 체크하여도 동일하게 생성 가능합니다.
 
 ## 설명
 
-포털 사이트 기능 구현 시 필수적인 부분만 사용 가능하도록 경량화 된 실행환경 제공  
-포털 공지사항 관리 템플릿, 사용자 관리 템플릿, 권한 관리 템플릿, 포털 초기화면 관리 템플릿, 포털 FAQ 관리 템플릿, 포털 행사 참가 관리 템플릿 기능을 제공
+내부업무 기능 구현 시 필수적인 부분만 사용 가능하도록 경량화 된 실행환경 제공  
+메인 페이지, 업무사용자 관리, 공지사항 관리, 게시판 관리, 권한 관리, 프로그램 관리, 메뉴 관리 기능을 제공
 
 ## 프로젝트 생성
 
@@ -18,15 +18,15 @@
 1. 메뉴 표시줄에서 **File > New > eGovFrame Template Project** 를 선택한다. (단 eGovFrame Perspective 내에서)
    또는, Ctrl+N 단축키를 이용하여 새로 작성 마법사를 실행한 후 **eGovFrame > eGovFrame Template Project** 를 선택하고 Next를 클릭한다.
 
-![new_template_wizard1](https://user-images.githubusercontent.com/30619379/228111269-681186ac-66b8-4f24-9e25-7de4c3e9a142.jpg)
+   ![new_template_wizard1](https://user-images.githubusercontent.com/30619379/228111269-681186ac-66b8-4f24-9e25-7de4c3e9a142.jpg)
 
 2. 생성하려는 Template 유형(단순 홈페이지, 포털 사이트, 내부업무 시스템)을 선택하고 Next를 클릭한다.
 
-![new_template_wizard2](https://user-images.githubusercontent.com/30619379/228111295-2d5534e5-9a50-440c-927e-8997ba6b7e8b.jpg)
+   ![new_template_wizard2](https://user-images.githubusercontent.com/30619379/228111295-2d5534e5-9a50-440c-927e-8997ba6b7e8b.jpg)
 
 3. 프로젝트 명과 메이븐 설정에 필요한 값들을 입력하고 Finish를 클릭한다.
 
-![new_template_wizard3](https://user-images.githubusercontent.com/30619379/228111310-2ce73886-f2a6-44a4-82dd-eb991886c082.jpg)
+   ![new_template_wizard3](https://user-images.githubusercontent.com/30619379/228111310-2ce73886-f2a6-44a4-82dd-eb991886c082.jpg)
 
 ### 1-2. Git에서 프로젝트 복제
 
@@ -50,7 +50,7 @@
 
 2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 연결하고자 하는 DB에 테이블 생성 및 기초 데이터를 생성한다.
 
-![new_template_run1](https://user-images.githubusercontent.com/30619379/228111640-1e2f23ab-0a21-4848-8789-b63cf4700556.jpg)
+   ![new_template_sht_run1](https://user-images.githubusercontent.com/30619379/228142767-fa9b4787-ef78-4038-a1b1-749edae9ecb7.jpg)
 
 3. [템플릿 구성 및 환경설정](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:configration) 문서를 참고하여 템플릿 환경설정을 수행한다.
 
