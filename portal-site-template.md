@@ -53,7 +53,6 @@
 
    ![new_template_run1](https://user-images.githubusercontent.com/30619379/228111640-1e2f23ab-0a21-4848-8789-b63cf4700556.jpg)
 
-3. 템플릿 환경설정을 수행한다.  
-   다음 문서를 참고하도록 한다. [템플릿 구성 및 환경설정](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:configration)
+3. [템플릿 구성 및 환경설정](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:configration) 문서를 참고하여 템플릿 환경설정을 수행한다.  
 
 4. 실행할 프로젝트를 마우스 우클릭하고 __Run As > Run on Server__ 를 선택한다.
