@@ -16,8 +16,6 @@ Portal Site를 체크하여도 동일하게 생성 가능합니다.
 
 ### 1-1. 개발환경 도구에서 프로젝트 생성
 
-https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev4.1:imp:editor:create_template_project_wizard
-
 1. 메뉴 표시줄에서 File > New > eGovFrame Template Project를 선택한다. (단 eGovFrame Perspective 내에서)
    또는, Ctrl+N 단축키를 이용하여 새로 작성 마법사를 실행한 후 eGovFrame > eGovFrame Template Project을 선택하고 Next를 클릭한다.
    
