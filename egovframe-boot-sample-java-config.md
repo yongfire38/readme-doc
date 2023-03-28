@@ -13,10 +13,16 @@ Generate Example을 체크하여도 동일하게 생성 가능합니다.
 
 1. 메뉴 표시줄에서 **File > New > eGovFrame Boot Web Project** 를 선택한다. (단 eGovFrame Perspective 내에서)  
    또는, Ctrl+N 단축키를 이용하여 새로작성 마법사를 실행한 후 **eGovFrame > eGovFrame Boot Web Project** 를 선택하고 Next를 클릭한다.
+   
+![4th_new_boot_web1](https://user-images.githubusercontent.com/30619379/228182182-0039fd92-00f4-4bfc-b43f-f8b39e6b75f1.jpg)
 
 2. 프로젝트 명과 Maven 설정에 필요한 값들을 입력하고 Next를 클릭한다.
 
+![4th_new_boot_web2](https://user-images.githubusercontent.com/30619379/228182258-e0d3f59a-d524-4a97-b639-75578cd5ff97.jpg)
+
 3. 예제 소스 파일 생성 여부를 체크하고 Finish를 클릭한다.
+
+![4th_new_boot_web3](https://user-images.githubusercontent.com/30619379/228182289-b650d84b-e298-48f1-a47f-b3da1daa970d.jpg)
 
 ### 1-2. Git에서 프로젝트 복제
 
