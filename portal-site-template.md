@@ -1,8 +1,7 @@
 # 표준프레임워크 템플릿 프로젝트 포털 사이트
 
 ※ 본 프로젝트는 표준프레임워크에서 제공하는 공통컴포넌트의 기능들 중 일부를 선정하여 기본 구성한 참조용 프로젝트 소스입니다.  
-※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Template Project 선택 후,  
-Portal Site를 체크하여도 동일하게 생성 가능합니다.
+※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Template Project 선택 후, Portal Site를 체크하여도 동일하게 생성 가능합니다.
 
 ## 설명
 
