@@ -16,7 +16,7 @@
 ### 1-1. 개발환경 도구에서 프로젝트 생성
 
 1. 메뉴 표시줄에서 __File > New > eGovFrame Template Project__ 를 선택한다. (단 eGovFrame Perspective 내에서)
-   또는, Ctrl+N 단축키를 이용하여 새로 작성 마법사를 실행한 후 eGovFrame > eGovFrame Template Project을 선택하고 Next를 클릭한다.
+   또는, Ctrl+N 단축키를 이용하여 새로 작성 마법사를 실행한 후 __eGovFrame > eGovFrame Template Project__ 를 선택하고 Next를 클릭한다.
    
    ![new_template_wizard1](https://user-images.githubusercontent.com/30619379/228111269-681186ac-66b8-4f24-9e25-7de4c3e9a142.jpg)
 
@@ -49,7 +49,7 @@
 
 1. eclipse 하단의 Servers 탭을 클릭하고, 마우스 우클릭하여 __New > Server__ 를 선택하여 서버를 설치한다.
 
-2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 기초 데이터를 입력한다.
+2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 연결하고자 하는 DB에 테이블 생성 및 기초 데이터를 생성한다.
 
    ![new_template_run1](https://user-images.githubusercontent.com/30619379/228111640-1e2f23ab-0a21-4848-8789-b63cf4700556.jpg)
 
