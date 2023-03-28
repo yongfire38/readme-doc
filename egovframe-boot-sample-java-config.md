@@ -1,8 +1,7 @@
 # 표준프레임워크 부트 기반 심플 게시판
 
-※ 본 프로젝트는 Spring boot 기반의 기본 게시판 예제입니다.
-※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Boot Web Project 선택 후,  
-Generate Example을 체크하여도 동일하게 생성 가능합니다.
+※ 본 프로젝트는 Spring boot 기반의 기본 게시판 예제입니다.  
+※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Boot Web Project 선택 후, Generate Example을 체크하여도 동일하게 생성 가능합니다.
 
 ## 프로젝트 생성
 
