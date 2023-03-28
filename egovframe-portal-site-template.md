@@ -42,6 +42,7 @@
 
 4. 개발 환경에서 **File > Import... > General > Projects from Folder or Archive** 를 선택하여,
    아래와 같은 대화창에서 복제된 프로젝트를 선택 후 **[Finish]** 버튼을 클릭한다.
+
 5. 자세한 사항은 [표준 프레임워크 소스 복제](https://github.com/yongfire38/egovframe-template-simple-react/wiki/%ED%91%9C%EC%A4%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EC%8A%A4-%EB%B3%B5%EC%A0%9C) 문서를 확인한다.
 
 ## 프로젝트 실행
