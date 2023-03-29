@@ -58,6 +58,7 @@
 1. eclipse 하단의 Servers 탭을 클릭하고, 마우스 우클릭하여 **New > Server** 를 선택하여 서버를 설치한다.
 
 2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 연결하고자 하는 DB에 테이블 생성 및 기초 데이터를 생성한다.
+   dml 및 ddl은 5가지 데이터베이스(Altibase, Cubrid, MySQL, Oracle, Tibero)를 지원한다.
 
 ![new_template_sht_run1](https://user-images.githubusercontent.com/30619379/228142767-fa9b4787-ef78-4038-a1b1-749edae9ecb7.jpg)
 
