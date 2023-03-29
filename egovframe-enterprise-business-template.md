@@ -15,7 +15,7 @@
 
 ### 1-1. 개발환경 도구에서 프로젝트 생성
 
-1. 메뉴 표시줄에서 **File > New > eGovFrame Template Project** 를 선택한다. (단 eGovFrame Perspective 내에서)
+1. 메뉴 표시줄에서 **File > New > eGovFrame Template Project** 를 선택한다. (단 eGovFrame Perspective 내에서)  
    또는, Ctrl+N 단축키를 이용하여 새로 작성 마법사를 실행한 후 **eGovFrame > eGovFrame Template Project** 를 선택하고 Next를 클릭한다.
 
    ![new_template_wizard1](https://user-images.githubusercontent.com/30619379/228111269-681186ac-66b8-4f24-9e25-7de4c3e9a142.jpg)
