@@ -3,6 +3,14 @@
 ※ 본 프로젝트는 Spring boot 기반의 기본 게시판 예제입니다.  
 ※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Boot Web Project 선택 후, Generate Example을 체크하여도 동일하게 생성 가능합니다.
 
+## 환경 설정
+
+프로젝트에서 사용된 환경 프로그램 정보는 다음과 같다.
+| 프로그램 명 | 버전 명 |
+| :--------- | :------ |
+| java | 1.8 |
+| maven | 3.8.4 |
+
 ## 프로젝트 생성
 
 - 개발환경 도구의 템플릿 생성 메뉴를 통해서 템플릿 프로젝트를 생성 및 실행할 경우 1-1. 을 참고한다.
@@ -12,7 +20,7 @@
 
 1. 메뉴 표시줄에서 **File > New > eGovFrame Boot Web Project** 를 선택한다. (단 eGovFrame Perspective 내에서)  
    또는, Ctrl+N 단축키를 이용하여 새로작성 마법사를 실행한 후 **eGovFrame > eGovFrame Boot Web Project** 를 선택하고 Next를 클릭한다.
-   
+
 ![4th_new_boot_web1](https://user-images.githubusercontent.com/30619379/228182182-0039fd92-00f4-4bfc-b43f-f8b39e6b75f1.jpg)
 
 2. 프로젝트 명과 Maven 설정에 필요한 값들을 입력하고 Next를 클릭한다.
