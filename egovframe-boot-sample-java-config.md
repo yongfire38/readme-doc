@@ -27,6 +27,11 @@ mvn spring-boot:run
 
 개발환경에서 프로젝트 우클릭 > Run As > Spring Boot App을 통해 구동한다.
 
+### 구동 후 확인
+
+구동 후, 브라우저에서 http://localhost:포트번호/ 로 확인이 가능하다.  
+초기 포트번호는 8080이며 src/main/resources/application.yml 파일의 port 항목을 변경 가능하다.
+
 ## 참조 화면
 
 ### 목록 화면
