@@ -19,27 +19,6 @@
 
 ![menu_ebt_v4](https://user-images.githubusercontent.com/30619379/228754394-842c2d14-9b2a-426c-adee-b6d86da7c126.jpg)
 
-## 환경 설정
-
-프로젝트에서 사용된 환경 프로그램 정보는 다음과 같다.
-| 프로그램 명 | 버전 명 |
-| :--------- | :------ |
-| java | 1.8 이상 |
-| maven | 3.8.4 |
-
-## 프로젝트 실행
-
-1. eclipse 하단의 Servers 탭을 클릭하고, 마우스 우클릭하여 **New > Server** 를 선택하여 서버를 설치한다.
-
-2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 연결하고자 하는 DB에 테이블 생성 및 기초 데이터를 생성한다.  
-   dml 및 ddl은 5가지 데이터베이스(Altibase, Cubrid, MySQL, Oracle, Tibero)를 지원한다.
-
-![new_template_ebt_run1](https://user-images.githubusercontent.com/30619379/228145073-4580e06f-9ef7-4b04-8f3f-7fee6a0a43af.jpg)
-
-3. [템플릿 구성 및 환경설정](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:configration) 문서를 참고하여 템플릿 환경설정을 수행한다.
-
-4. 실행할 프로젝트를 마우스 우클릭하고 **Run As > Run on Server** 를 선택한다.
-
 ## 참고 화면 및 메뉴 설명
 
 ### 메인 화면
@@ -100,3 +79,23 @@
 2. 기능설명 : 공통컴포넌트 사용자관리, 권한관리 (권한, 그룹, 사용자별권한, 롤관리), 메뉴관리 (프로그램, 메뉴, 메뉴생성), 코드관리 (분류코드, 공통코드, 상세코드) 기능을 커스터마이징하여 사용한다.
 3. 활용방법 : 관리자로 로그인 한 후 게시물을 등록할 수 있다. (게시판 설정 가능) 사용자와 사용자권한정보를 관리할 수 있다. 프로그램과 메뉴정보를 관리할 수 있다. 내부 코드정보를 관리할 수 있다.
 
+## 환경 설정
+
+프로젝트에서 사용된 환경 프로그램 정보는 다음과 같다.
+| 프로그램 명 | 버전 명 |
+| :--------- | :------ |
+| java | 1.8 이상 |
+| maven | 3.8.4 |
+
+## 프로젝트 실행
+
+1. eclipse 하단의 Servers 탭을 클릭하고, 마우스 우클릭하여 **New > Server** 를 선택하여 서버를 설치한다.
+
+2. 생성 또는 복사된 소스 내부의 DATABASE 폴더 내 dml, ddl을 참고하여 연결하고자 하는 DB에 테이블 생성 및 기초 데이터를 생성한다.  
+   dml 및 ddl은 5가지 데이터베이스(Altibase, Cubrid, MySQL, Oracle, Tibero)를 지원한다.
+
+![new_template_ebt_run1](https://user-images.githubusercontent.com/30619379/228145073-4580e06f-9ef7-4b04-8f3f-7fee6a0a43af.jpg)
+
+3. [템플릿 구성 및 환경설정](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:configration) 문서를 참고하여 템플릿 환경설정을 수행한다.
+
+4. 실행할 프로젝트를 마우스 우클릭하고 **Run As > Run on Server** 를 선택한다.
