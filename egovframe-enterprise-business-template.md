@@ -17,7 +17,7 @@
 
 ### 메뉴 구성
 
-| 대메뉴&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 서브메뉴 | 비고 |
+| 대메뉴&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 서브메뉴 | 비고 |
 | :--------- | :------ | :------ |
 | 알림정보&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 공지사항, 업무게시판 | |
 | 직급체계관리&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 입퇴사정보관리, 직급정보관리, 직위정보관리 | 예시메뉴 (템플릿 샘플 정적 페이지) |
