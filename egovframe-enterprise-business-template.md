@@ -1,7 +1,12 @@
 # 표준프레임워크 템플릿 프로젝트 내부업무 시스템
 
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-F2F4F9?style=for-the-badge&logo=spring)
+![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 ※ 본 프로젝트는 표준프레임워크에서 제공하는 공통컴포넌트의 기능들 중 일부를 선정하여 기본 구성한 참조용 프로젝트 소스입니다.  
-※ 본 프로젝트는 개발환경에서 eGovFrame > Start > New Template Project 선택 후, Enterprise Business를 체크하여도 동일하게 생성 가능합니다.
 
 ## 설명
 
@@ -13,45 +18,8 @@
 프로젝트에서 사용된 환경 프로그램 정보는 다음과 같다.
 | 프로그램 명 | 버전 명 |
 | :--------- | :------ |
-| java | 1.8 |
+| java | 1.8 이상 |
 | maven | 3.8.4 |
-
-## 프로젝트 생성
-
-- 개발환경 도구의 템플릿 생성 메뉴를 통해서 템플릿 프로젝트를 생성 및 실행할 경우 1-1. 을 참고한다.
-- Git에서 복제하여 설치 시 1-2. 를 참고한다.
-
-### 1-1. 개발환경 도구에서 프로젝트 생성
-
-1. 메뉴 표시줄에서 **File > New > eGovFrame Template Project** 를 선택한다. (단 eGovFrame Perspective 내에서)  
-   또는, Ctrl+N 단축키를 이용하여 새로 작성 마법사를 실행한 후 **eGovFrame > eGovFrame Template Project** 를 선택하고 Next를 클릭한다.
-
-   ![new_template_wizard1](https://user-images.githubusercontent.com/30619379/228111269-681186ac-66b8-4f24-9e25-7de4c3e9a142.jpg)
-
-2. 생성하려는 Template 유형(단순 홈페이지, 포털 사이트, 내부업무 시스템)을 선택하고 Next를 클릭한다.
-
-   ![new_template_wizard2](https://user-images.githubusercontent.com/30619379/228111295-2d5534e5-9a50-440c-927e-8997ba6b7e8b.jpg)
-
-3. 프로젝트 명과 메이븐 설정에 필요한 값들을 입력하고 Finish를 클릭한다.
-
-   ![new_template_wizard3](https://user-images.githubusercontent.com/30619379/228111310-2ce73886-f2a6-44a4-82dd-eb991886c082.jpg)
-
-### 1-2. Git에서 프로젝트 복제
-
-1. 본 프로젝트 repository 메인 페이지에서 우측 상단의 **[Fork]** 버튼을 클릭하여 나의 Repository에 복사한다.
-
-![new_template_git1](https://user-images.githubusercontent.com/30619379/228111390-574e38e2-c1e4-49d2-9187-9060f9b4ce1c.jpg)
-
-2. 복사된 Repository에서 Contribution을 위한 branch를 생성한다.
-
-3. 표준 프레임워크 개발 환경에서 Git Repositories View에서 Clone a Git Repository를 클릭하여
-   Source Git Repository 대화창의 URI 란에 1에서 복사한 나의 원격 저장소의 URL을 붙여 넣으면,
-   Host와 Repository path는 자동으로 입력된다.
-
-4. 개발 환경에서 **File > Import... > General > Projects from Folder or Archive** 를 선택하여,
-   아래와 같은 대화창에서 복제된 프로젝트를 선택 후 **[Finish]** 버튼을 클릭한다.
-
-5. 자세한 사항은 [표준 프레임워크 소스 복제](https://github.com/yongfire38/egovframe-template-simple-react/wiki/%ED%91%9C%EC%A4%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EC%8A%A4-%EB%B3%B5%EC%A0%9C) 문서를 확인한다.
 
 ## 프로젝트 실행
 
@@ -66,4 +34,13 @@
 
 4. 실행할 프로젝트를 마우스 우클릭하고 **Run As > Run on Server** 를 선택한다.
 
-5. 템플릿 프로젝트의 메뉴 구성 및 기능은 [템플릿 기능](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:let4:function) 문서를 참조한다.
+## 참고 화면 및 메뉴 설명
+
+### 메인 화면
+
+![ebt1](https://user-images.githubusercontent.com/30619379/228750295-b2de6bcc-5b61-434c-adc8-ba61b409aeb4.jpg)
+
+1. 내부업무 템플릿은 업무시스템의 내부적인 관리기능(접속현황 모니터링, 접속제한, 사용자 및 권한 관리 등)을 위주로 기본 구성한 형태이다.  
+최초 로그인 계정 설정은 __[ 로그인계정(관리자) : admin , 로그인암호 : 1 / 로그인계정(사용자) : user1 , 로그인암호 : 1 ]__ 로 설정되어 있다.
+2. 관리자 계정으로 업무용 사용자(예:user1 계정)을 추가등록하고 권한정보를 부여하는 방식으로 사용할 수 있고 기본 관리기능에 대한 초기 설정을 변경하여 적용할 수 있다.
+3. 기본 기능이나 예시 메뉴를 실무적으로 추가 커스터마이징하여 활용할 수 있다.
