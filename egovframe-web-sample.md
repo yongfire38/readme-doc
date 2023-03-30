@@ -19,7 +19,11 @@
 
 ### 목록 화면
 
+![web1](https://user-images.githubusercontent.com/30619379/228780275-75d772d0-f19b-48ca-adb6-b1fe5e353772.JPG)
+
 ### 게시글 등록 화면
+
+![web2](https://user-images.githubusercontent.com/30619379/228780344-0184b139-870f-4c3e-a00a-128d96b0419d.JPG)
 
 ## 프로젝트 실행
 
